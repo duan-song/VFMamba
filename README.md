@@ -1,2 +1,2 @@
 # VFMamba
-The code and data will be uploaded after the paper is accepted.
+The code and results will be uploaded after the paper is accepted.
